@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "searching",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-04-03T14:46:18.294364Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.2",
+  "pubCache": "file:///C:/Users/user/AppData/Local/Pub/Cache"
+}
